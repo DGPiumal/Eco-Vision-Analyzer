@@ -5,3 +5,4 @@ pandas
 Pillow
 matplotlib
 streamlit-image-coordinates
+scikit-image
